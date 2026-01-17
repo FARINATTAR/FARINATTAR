@@ -16,6 +16,26 @@ without overthinking it
 
 connect with me??? ---> www.linkedin.com/in/farinattar
 <br/>
+
+## 🏆 GSSOC(24) Badges
+
+<div style="display:flex; flex-wrap:wrap; gap:14px; justify-content:center;">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90"/>
+</div>
+
+<br/>
+<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,tailwind,nodejs,express,npm,react,mongodb,postgres,azure,git,github,postman" />
+</p>
+
+---
+
 <table>
   <tr>
     <td align="center">
@@ -34,15 +54,6 @@ connect with me??? ---> www.linkedin.com/in/farinattar
     </td>
   </tr>
 </table>
-
 <br />
 <br />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,tailwind,nodejs,express,npm,react,mongodb,postgres,azure,git,github,postman" />
-</p>
-
-<br />
-<br />
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FarinAttar)
